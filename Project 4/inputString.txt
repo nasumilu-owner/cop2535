@@ -1,0 +1,1 @@
+if ((average[x] < 0) || average[x] > 100)) cout << ("ERROR: Average is not accurate.\n)";
